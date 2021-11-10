@@ -25,7 +25,7 @@ Number”][comparing-the-guess-to-the-secret-number]<!-- ignore -- > section in
 Chapter 2, we must add a type annotation, like this:
 -->
 
-Gardez à l'esprit que Rust un est langage *statiquement typé*, ce qui signifie
+Gardez à l'esprit que Rust est un langage *statiquement typé*, ce qui signifie
 qu'il doit connaître les types de toutes les variables au moment de la
 compilation. Le compilateur peut souvent déduire quel type utiliser en se basant
 sur la valeur et sur la façon dont elle est utilisée. Dans les cas où plusieurs
